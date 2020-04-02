@@ -1,14 +1,14 @@
-
+$color: grey;
 .webt{
 	margin-bottom: 20px;
 }
 
 .web_t{
-	color: grey;
+	color: $color;
 }
 
 .mostp {
-	color: grey;
+	color: $color;
 }
 
 .col-l{
@@ -19,6 +19,3 @@
 	height: auto;
 	width: 500px;
 }
-@media (min-width:576px){
-	.conv{max-width:540px
-		}}
